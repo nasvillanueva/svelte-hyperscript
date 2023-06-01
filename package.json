@@ -1,7 +1,7 @@
 {
   "name": "svelte-hyperscript",
   "version": "1.2.1",
-  "description": "hyperscript for svelte",
+  "description": "hyperscript for svelte with fix for svelte 3.59",
   "source": "src/h.js",
   "main": "./dist/cjs/h.js",
   "exports": {

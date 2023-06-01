@@ -1,3 +1,5 @@
+# This is a temporary published code to fix an issue with svelte-hyperscript and svelte@^3.59.x
+
 # svelte-hyperscript
 
 > use [hyperscript](https://github.com/hyperhype/hyperscript) to create [svelte](https://svelte.dev/) components
